@@ -1,4 +1,4 @@
 delete = [ false ]
-disable = [ true ]
-version = [ 1.0 ]
+disable = [ false ]
+version = [ 1.1 ]
 blacklisted = [ ]
