@@ -3,6 +3,8 @@ delete = [ true ]
 disable = [ false ]
 version = [ 1.0 ]
 blacklisted = [ ]
+[ Drop End ]
+
 [ V2 ]
 delete = [ ]
 disable = [ false ]
