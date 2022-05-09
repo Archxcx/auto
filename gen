@@ -1,7 +1,7 @@
 [ Drop ]
 delete = [ true ]
 disable = [ false ]
-version = [ 1.01 ]
+version = [ 1.0 ]
 blacklisted = [ ]
 [ Drop End ]
 
