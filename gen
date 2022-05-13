@@ -12,7 +12,7 @@ disable = [ false ]
 
 [ Pack ]
 delete = [ false ]
-disable = [ true ]
+disable = [ false ]
 version = [ 1.0 ]
 blacklisted = [ ]
 [ Pack End ]
