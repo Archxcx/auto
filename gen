@@ -16,3 +16,23 @@ disable = [ false ]
 version = [ 1.01 ]
 blacklisted = [ ]
 [ Pack End ]
+
+[ Main ]
+delete = [ false ]
+disable = [ false ]
+version = [ 1.0 ]
+[ Blacklisted ]
+
+[ Blacklisted End ]
+
+[ Verified ]
+Archeonic#8127 : 535970B0-B61E-8748-8427-975DAB1A617E
+TEST#1023 : e52ad576-635e-4647-84cb-666ed481ae33
+RANDO#2391 : 15d0cfa0-ba14-42f7-8dca-cfc3b61612ac
+PERSON1 : afcdb04f-621c-4848-866c-c62c5f79fa3e
+PERSON2 : 8c67d017-2af0-4f29-93b2-2342dcc9f2b0
+PERSON3 : 923e54c7-36f7-48f5-8b4a-7fcfc6b44514
+PERSON4 : cc75f094-593d-4724-9268-5e31e823b969
+[ Verified End ]
+
+[ Main End ]
